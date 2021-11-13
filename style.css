@@ -1,7 +1,22 @@
-h1 { 
+h1,
+h2 { 
     font-family: "Andale Mono", monospace
+    
 }
 
-body {
-    font-family: "Lucida Console", "Courier New", monospace
+p {
+    font-family: "Bradley Hand", cursive
+    
+}
+
+a:link {
+    color: green
+}
+
+a:visited {
+    color: red
+}
+
+body{
+    background-color: #EBC033;
 }
